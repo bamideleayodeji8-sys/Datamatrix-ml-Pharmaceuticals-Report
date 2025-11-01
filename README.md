@@ -30,6 +30,10 @@ The final dataset, Chocolate_Sales, combines sales, location, product, and sales
 
 Insights Derived: • Location and channel performance • Salesperson productivity vs. €100,000 target • Product and category profitability • Organic vs. non-organic product demand
 
+# Visuals
+https://github.com/bamideleayodeji8-sys/Datamatrix-ml-Pharmaceuticals-Report/blob/1a02663e34c22738fa2883732477aa5a3036a0ee/pbi%201.png
+
+
 # Overall business performance
 •	The business had a total sales amounting to $11.8 billion
 •	A total of 29 million units of the products were sold

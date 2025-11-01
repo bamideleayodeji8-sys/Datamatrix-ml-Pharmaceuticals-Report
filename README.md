@@ -15,6 +15,9 @@ The report provides a technical report of pharmaceutical sales and product perfo
 # Data Preparation
 This project analyzes pharmaceutical sales performance across multiple dimensions — location, sales channel, and product characteristics — to generate business insights such as channel effectiveness, location performance,management performance, and product profitability. All datasets were cleaned using power bi, and transformed for proper analysis.
 
+# Datasets
+https://github.com/bamideleayodeji8-sys/Datamatrix-ml-Pharmaceuticals-Report/blob/ac678723ea3093b82ad25c27e7957a5690c79ae9/datamatrix-ml-pharmaceuticals.pbix
+
 Tools Used
 power bi -For initaial data prtocessing, formula and structuring
 Power bi - for merging and transfoirming data effenciency

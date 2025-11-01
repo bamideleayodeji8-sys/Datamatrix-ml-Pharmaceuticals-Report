@@ -33,6 +33,8 @@ Insights Derived: • Location and channel performance • Salesperson productiv
 # Visuals
 https://github.com/bamideleayodeji8-sys/Datamatrix-ml-Pharmaceuticals-Report/blob/1a02663e34c22738fa2883732477aa5a3036a0ee/pbi%201.png
 
+https://github.com/bamideleayodeji8-sys/Datamatrix-ml-Pharmaceuticals-Report/blob/bc792128052f918b05ac705c0086e7cbe0f097c1/pbi%202.png
+
 
 # Overall business performance
 •	The business had a total sales amounting to $11.8 billion
